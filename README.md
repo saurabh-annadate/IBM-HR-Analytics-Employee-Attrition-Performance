@@ -14,7 +14,7 @@ Data pre-processing, Scoring metrics, Visualization, Hyperparameter tuning, clas
 ```
 knowledge of Python (I've used iPython notebook but you can run this code on whatever you are comfortable with.
 ```
-## Questions tried to answer
+## Outline followed
 
    * Visualization of the data
    * Identifying different relationships in the data
