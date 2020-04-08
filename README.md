@@ -4,6 +4,7 @@
 
 
 ## Side note 
+The aim of this project is to use the various classification algorithms to classify employees based on attrition. There are number of columns in the data which give information about each employee in IBM dataset. We have to visualise this data and take suitable columns which will affect attrition the most. Then run this data through various supervised classification algorithms to give predictions.  
 This project was a group project in my data science class, it was impossible to do it without the help of my teammates.
 ### Prerequisites
 
