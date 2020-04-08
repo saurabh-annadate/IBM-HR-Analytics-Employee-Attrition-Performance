@@ -23,9 +23,9 @@ knowledge of Python (I've used iPython notebook but you can run this code on wha
    * Oversampling by SMOTE (as the 'Attrition' isnt a balanced variable)
    * Exploring different classification algorithms
    * Hyperparameter tuning
-    * Calculating different metrics (F1, Precision, Accuracy, Recall, etc)
-    * Comparing different models
-    * Providing import features for the best model
+   * Calculating different metrics (F1, Precision, Accuracy, Recall, etc)
+   * Comparing different models
+   * Providing import features for the best model
 
 
 
