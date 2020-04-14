@@ -30,7 +30,7 @@ knowledge of Python (I've used iPython notebook but you can run this code on wha
 
 
 ## Instructions
-The ipython(attrition.ipyb) notebook is self explanatory. Run each cell sequentially. 
+The ipython notebook(IBMAttrition.ipynb) is self explanatory. Run each cell sequentially. 
 
 
 
