@@ -29,7 +29,8 @@ knowledge of Python (I've used iPython notebook but you can run this code on wha
    * Providing import features for the best model
 
 
-
+## Instructions
+The ipython(attrition.ipyb) notebook is self explanatory. Run each cell sequentially. 
 
 
 
